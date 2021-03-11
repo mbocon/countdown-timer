@@ -1,6 +1,6 @@
 body {
 	background-color: #7feeffd7;
-    font-family: 'Courier New', Courier, monospace;
+	font-family: 'Courier New', Courier, monospace;
 }
 
 .content {
@@ -15,31 +15,31 @@ body {
 	text-align: center;
 }
 
-input, button  {
-    padding: .75rem;
-    outline: none;
+input,
+button {
+	padding: 0.75rem;
+	outline: none;
 }
 
 button {
-    border-radius: .5rem;
-    color:rgb(26, 26, 26);
-    background-color: #0ebe14;
+	border-radius: 0.5rem;
+	color: rgb(26, 26, 26);
+	background-color: #0ebe14;
 }
 
 button:hover {
-    cursor: pointer;
-    color: black;
-    background-color: #26ff05;
+	cursor: pointer;
+	color: black;
+	background-color: #26ff05;
 }
 
 p {
-    font-size: 2rem;
-    margin-left: .75rem;
+	font-size: 2rem;
+	margin-left: 0.75rem;
 }
 
 .counter {
-    display: flex;
-    width: 100%;
-    justify-content: center;
+	display: flex;
+	width: 100%;
+	justify-content: center;
 }
-
